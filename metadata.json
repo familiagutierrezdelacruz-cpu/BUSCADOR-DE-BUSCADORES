@@ -1,0 +1,5 @@
+{
+  "name": "Search Engine Planetary System",
+  "description": "A web application that visualizes the world's top search engines as a planetary system. Users can input a search query, and the Gemini API suggests the best search engine for the query, highlighting the corresponding planets.",
+  "requestFramePermissions": []
+}
